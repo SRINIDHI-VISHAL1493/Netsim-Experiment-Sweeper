@@ -132,6 +132,7 @@ simulation configuration.
 | [`samples/`](samples) | Reusable configuration, metrics, and campaign examples |
 | [`tests/mock_process_test.py`](tests/mock_process_test.py) | Deterministic smoke test |
 | [`AI_USAGE.md`](AI_USAGE.md) | AI-assisted development notes and validation record |
+| [`LICENSE`](LICENSE) | MIT License |
 
 ![Dashboard screen](dashboard.png)
 
@@ -146,7 +147,10 @@ simulation configuration.
   table/row/column identity and identifying fields without hard-coding a
   particular model.
 
-## Licence
+## License
 
-No licence file is currently included. Add the licence that matches your
-distribution and NetSim usage requirements before publishing publicly.
+This project is licensed under the [MIT License](LICENSE).
+
+NetSim itself is third-party software and remains subject to its own license
+and usage terms. This license applies to this project’s source code and
+documentation.
