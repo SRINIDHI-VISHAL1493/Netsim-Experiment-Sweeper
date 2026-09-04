@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Metrics><Application id="1" source="1" destination="2"><Throughput>12.5</Throughput><Delay>4.2</Delay></Application><Link id="1"><Utilization>75</Utilization></Link></Metrics>

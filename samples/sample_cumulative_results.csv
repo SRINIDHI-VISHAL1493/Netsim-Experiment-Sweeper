@@ -1,0 +1,2 @@
+campaign_id,run,status,TCP protocol,Throughput Mbps,start,end,duration,output_folder,error
+campaign_example,1,Passed,New_Reno,12.5,2026-09-03T10:00:00,2026-09-03T10:00:01,1.0,C:\NetSimCampaigns\campaign_example\run_0001,

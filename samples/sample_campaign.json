@@ -1,0 +1,13 @@
+{
+  "name": "Example TCP sweep",
+  "config": "samples/Configuration.netsim",
+  "metrics": "samples/Metrics.xml",
+  "binary": "C:/Program Files/NetSim/Standard_v15_0/bin/bin_x64",
+  "license_type": "server",
+  "license_value": "5053@192.168.0.4",
+  "output": "C:/NetSimCampaigns",
+  "max_runs": 100,
+  "mock": false,
+  "parameters": [{"nodeId":"a2","label":"TCP protocol","mode":"list","values":"New_Reno,BIC,CUBIC"}],
+  "metric_specs": [{"metricId":"m2","label":"Throughput Mbps"}]
+}

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Network><Devices><Device id="1"><Transport protocol="New_Reno" window="20"/></Device></Devices><Applications><Application id="1"><Traffic rate="10"/></Application></Applications></Network>
